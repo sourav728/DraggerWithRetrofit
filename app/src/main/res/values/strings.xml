@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DraggerWithRetrofit</string>
+    <string name="des">Description</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="actor_name">Actor Name</string>
+    <string name="team">Team</string>
+    <string name="createdby">Created By</string>
+    <string name="publisher">Publisher</string>
+    <string name="bio">Description</string>
+</resources>
